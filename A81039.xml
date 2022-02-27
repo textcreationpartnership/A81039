@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cromwell's recall. Or, The petition of the zealous fraternity, convented iniquity, at the house of John Goodwin arch-flamin of England, to the supreme authority of this nation, the House of Common-Traytors assembled in Parliament. With a declaration of the said House, for the recall of Cromwell from his dangerous expedition to sit with them and vote that which he dare not doe, July the 30. 1649. Together with Cromwell's description. It is ordered, that this declaration and the petition of our loving and seditious brethren be forthwith printed. Hen Scobel, Cler. de Com. / Written by Alethophilus Bæsiluphilus Britannophilus.</title>
+            <author>Britannophilus, Alethophilus Baesiluphilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81039</idno>
+            <idno type="STC">Wing C7195</idno>
+            <idno type="STC">Thomason E566_22</idno>
+            <idno type="STC">ESTC R11901</idno>
+            <idno type="EEBO-CITATION">99859165</idno>
+            <idno type="PROQUEST">99859165</idno>
+            <idno type="VID">165297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165297)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cromwell's recall. Or, The petition of the zealous fraternity, convented iniquity, at the house of John Goodwin arch-flamin of England, to the supreme authority of this nation, the House of Common-Traytors assembled in Parliament. With a declaration of the said House, for the recall of Cromwell from his dangerous expedition to sit with them and vote that which he dare not doe, July the 30. 1649. Together with Cromwell's description. It is ordered, that this declaration and the petition of our loving and seditious brethren be forthwith printed. Hen Scobel, Cler. de Com. / Written by Alethophilus Bæsiluphilus Britannophilus.</title>
+                  <author>Britannophilus, Alethophilus Baesiluphilus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Darby-house [London :</pubPlace>
+                  <date>Printed in the first year of our reigne, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire, partly in verse.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Humor.</term>
+               <term>Goodwin, John, 1594?-1665 --  Humor.</term>
+               <term>Great Britain --  Politics and government --  1642-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165297:1" rendition="simple:additions"/>
+            <p>
+               <hi>CROMWELL'S</hi> RECALL: <hi>OR,</hi> THE PETITION <hi>OF</hi> The zealous Fraternity, convented iniquity, at the Houſe of <hi>John Goodwin</hi> Arch-flamin of <hi>England,</hi> To the Supreme Authority of this Nation, the Houſe of Common-Traytors aſſembled in PARLIAMENT.</p>
+            <p>WITH A <hi>DECLARATION</hi> OF The ſaid Houſe, for the recall of <hi>Cromwell</hi> from his dangerous expedition to ſit with them and Vote that which he dare not doe, <hi>July</hi> the 30. 1649.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Together with</hi> CROMWELL'S Deſcription.</p>
+                  <p>
+                     <hi>IT is Ordered, that this</hi> Declaration <hi>and the</hi> Petition <hi>of our lo<g ref="char:EOLhyphen"/>ving and ſeditious Brethren be forthwith printed.</hi>
+                  </p>
+                  <p>Hen. Scobel, Cler. de Com.</p>
+               </body>
+            </floatingText>
+            <p>Written by <hi>Alethophilus Baſiluphilus Britannophilus.</hi>
+            </p>
+            <p>
+               <hi>Darby-houſe</hi> Printed in the firſt year of our Reigne, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165297:2"/>
+            <pb n="1" facs="tcp:165297:2"/>
+            <div type="part">
+               <head>
+                  <hi>CROMWELL'S</hi> RECALL: OR, The humble PETITION of the zealous Fraternity convented in iniquity at the Houſe of <hi>John Goodwin</hi> Arch-flamin of <hi>England:</hi> To the Supreme Authority of this Nation the Houſe of Common-Traytors Aſſembled in PARLIAMENT.</head>
+               <p>
+                  <hi>Sheweth,</hi>
+               </p>
+               <p>THat whereas manifeſt tokens of our god Mam<g ref="char:EOLhyphen"/>mons aſſiſtance, have been both precedent, pre<g ref="char:EOLhyphen"/>ſent, and ſubſequent to all our undertakings in the ſeven laſt years Rebellion; but more eſpecially have gone along with us ſince the Reformation, other<g ref="char:EOLhyphen"/>wiſe called, the New modelling of our Army under the Command of his Servants <hi>Og</hi> and <hi>Magog, Cromwell</hi> and <hi>Fairfax,</hi> evidently demonſtrating, that he will not forſake us, while we ſhall obey and follow the direction of thoſe his choſen Servants; yet the Supreme Tyranny of <hi>England</hi> aſſembled in this Houſe of profanation hath thought it convenient to imploy that happy Inſtrument of ſedition our moſt noble Lord and Brother <hi>Oliver Cromwell</hi> for the propagation of Hereſie and Rebellion in the Land of <hi>Ham,</hi> alias <hi>Ireland:</hi> but how great an impediment this may be to the thorough ſetlement of us and our Poſterity in this Country, that he the Pil<g ref="char:EOLhyphen"/>lar of Hereſie and <hi>Mammons</hi> Vicegerent ſhould leave us, before a perfect eſtabliſhment of our Government, and go amongſt thoſe that are as cruel as we are wicked, we will referre to your moſt impious conſiderations: but we cannot paſſe over (without hearty thanks and humble acknowledgment of your care) the manifeſta<g ref="char:EOLhyphen"/>tion of your zeale towards the promulgation of your ſchiſmaticall tenents; zealouſly profeſſing, that neither
+<pb n="2" facs="tcp:165297:3"/>Principalities nor Powers, Equity nor Honour, Reli<g ref="char:EOLhyphen"/>gion nor Conſcience, Life nor Death ſhall part us from you, but we ſhall faithfully honour, ſerve, and obey you and your Miniſters, as we have done hitherto, in all things, and at all times; but we hope that the dore of Addreſſe ſhall be open for us, that we may freely pre<g ref="char:EOLhyphen"/>ſent our trayterous and unlawfull requeſts to this diſ<g ref="char:EOLhyphen"/>honourable Houſe, both in the behalf of our ſelves, and of our Brethren the Free-borne People of <hi>England;</hi> and that if we have at any time the Spirit of Contradiction, or of Southſaying (corruptly called by us, Propheſie) as we have at this time, that we ſhall have (without any moleſtation) acceſſe to this Aſſembly.</p>
+               <p>Now, in verity, we find many ſpirituall conflicts for the departure of our Brother in the Devill <hi>Cromwell;</hi> yet we are very ſenſible of the profit may accrue to us and our zealous Faction by his navigation; but we can<g ref="char:EOLhyphen"/>not imagine that his endevouring to get another Coun<g ref="char:EOLhyphen"/>trey is as convenient as the keeping this, which cannot be defended without him our Headpiece and Buckler.</p>
+               <p>And beſides, we conceive, and ſo we hope doth this blear eyed Aſſembly, that the multitude of Robbers, Murtherers, Jayle-birds, Turkes, Jewes, Hereticks, and Atheiſts which are gone along with him, hath ſo much debilitated the ſtrength of this Nation, that we ſhould not be able to reſiſt the leaſt R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing: therefore we be<g ref="char:EOLhyphen"/>ſeech this wall-eyed Conventicle to take this our Peti<g ref="char:EOLhyphen"/>tion and our Reaſons into conſideration, and that they will be pleaſed to call back <hi>Goliah</hi> from facing the Iſ<g ref="char:EOLhyphen"/>raelites, ſo that we may live in peace and quietneſſe un<g ref="char:EOLhyphen"/>der the banner of the Devils anointed.</p>
+               <closer>
+                  <hi>And your Petitioners ſhall pray for your lives and continuation of Authority, till the Gallows which will be the end of us all, ſhall divide us.</hi>
+                  <signed>Signed by many ill-affected in <hi>London.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:165297:3"/>
+               <argument>
+                  <p>The Houſe after ſome debate, ſent out the Mace to bring in Mr. <hi>Goodwin,</hi> and three of the chief: to whom Mr. Speaker gave the thanks of the Houſe, and promiſe of ſpeedy ſatisfaction which upon their returne was pre<g ref="char:EOLhyphen"/>ſently took into conſideration, and order iſſued out, as followeth:</p>
+               </argument>
+               <head>¶ An Ordinance of the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, for the ſudden returne of the Lord Gen: <hi>Cromwell</hi> from the Iriſh expedition.</head>
+               <p>Die Lunae.</p>
+               <p>
+                  <hi>ORdered by the Commons aſſembled in Parliament, that</hi> Oliver <hi>Lord</hi> Cromwell, <hi>Generall of all the Forces on this ſide</hi> Ireland, <hi>raiſed by the power of Parliament for defence of that Place, doe, if he can, return to us at</hi> Weſtminſter: <hi>And it is likewiſe Ordered, that all Souldiers doe repair with him to the City of</hi> London, <hi>where they ſhall be rewarded for their gallant reſolution and de<g ref="char:EOLhyphen"/>portment. Every Colonel that hath magnanimouſly ven<g ref="char:EOLhyphen"/>tur'd to looke upon the Sea without a proſpective Glaſſe, ſhall have a hundred pounds when he can catch it; every Lieutenant Colonel of the ſame valour, fourſcore and ten pounds; every Major, fourſcore, &amp;c. And it is likewiſe Ordered, that every Colonel that hath pretended to engage for</hi> Ireland <hi>ſhall have fifty pounds; every Lieutenant Col: five and forty pounds, &amp;c. And thoſe Monies to be raiſed out of Deanes and Chapters Lands. And further, it is Or<g ref="char:EOLhyphen"/>dered by the Authority aforeſaid, that if any one be ſo ad<g ref="char:EOLhyphen"/>venturous as, notwithſtanding this Order, ſhall put to Sea and go to</hi> Ireland, <hi>ſhall have all his Goods Sequeſtred in</hi> England <hi>to the uſe of the Common-wealth, and it ſhall be<g ref="char:EOLhyphen"/>lawfull
+<pb n="4" facs="tcp:165297:4"/>for one either Iriſh or Engliſh in the Domini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns of</hi> Ireland <hi>to execute justice upon him for contempt of the Authority of Parliament.</hi>
+               </p>
+               <floatingText type="license" xml:lang="eng">
+                  <body>
+                     <p>This Order is forth with to be printed and ſent into all parts of this Kingdome as ſoone as poſſible.</p>
+                  </body>
+               </floatingText>
+               <closer>
+                  <signed>Hen. Scobel, <hi>Cler. de Com.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>That his Lordſhip may be the better entertained in his returne, I was commanded by the Authority afore<g ref="char:EOLhyphen"/>ſaid to annex this deſcription of him.</p>
+               </argument>
+               <lg>
+                  <head>CROMWELL'S Deſcription.</head>
+                  <l>
+                     <hi>MArke</hi> Cromwell <hi>from the Head to th' Feet</hi>
+                  </l>
+                  <l>
+                     <hi>He's like the Minotaure of</hi> Creet:</l>
+                  <l>
+                     <hi>Or like the Prodigie of</hi> Nile,</l>
+                  <l>
+                     <hi>Th'inſinuating Crocodile:</hi>
+                  </l>
+                  <l>
+                     <hi>But to ſpeake truth, the wicked Elfe</hi>
+                  </l>
+                  <l>
+                     <hi>Is like to nothing but himſelfe:</hi>
+                  </l>
+                  <l>
+                     <hi>Ne'r before him, on earth did dwell</hi>
+                  </l>
+                  <l>
+                     <hi>Such an Epitomy of Hell:</hi>
+                  </l>
+                  <l>
+                     <hi>Surely the Devil could not find,</hi>
+                  </l>
+                  <l>
+                     <hi>A body fitter for his mind.</hi>
+                  </l>
+                  <l>
+                     <hi>H'as a Round-head, Haire that the Cats</hi>
+                  </l>
+                  <l>
+                     <hi>Monopolize unto the Rats:</hi>
+                  </l>
+                  <l>
+                     <hi>His Eares hang over like a pent-houſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Or like an old decayed rent-houſe:</hi>
+                  </l>
+                  <l>
+                     <hi>Or like a broad hat brims that doe</hi>
+                  </l>
+                  <l>
+                     <hi>Reach from the head unto the ſhooe:</hi>
+                  </l>
+                  <l>
+                     <hi>A front branded with impudence,</hi>
+                  </l>
+                  <l>
+                     <hi>And cheeks puft up with arrogance:</hi>
+                  </l>
+                  <pb n="5" facs="tcp:165297:4"/>
+                  <l>
+                     <hi>With eyes ſunk in his bead, to ſhew</hi>
+                  </l>
+                  <l>
+                     <hi>They dare not ſee, what he dares doe:</hi>
+                  </l>
+                  <l>
+                     <hi>But for his NOSE (p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>x <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>) there w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e</hi>
+                  </l>
+                  <l>
+                     <hi>Can find a fit compariſon;</hi>
+                  </l>
+                  <l>
+                     <hi>It's like the Pyramid that ſtands</hi>
+                  </l>
+                  <l>
+                     <hi>On</hi> Egypts <hi>Pilgrim-trodden ſands;</hi>
+                  </l>
+                  <l>
+                     <hi>Like a fir'd Beacon, or it looks</hi>
+                  </l>
+                  <l>
+                     <hi>Like the great Letter in News-books;</hi>
+                  </l>
+                  <l>
+                     <hi>And if turn'd to the Sun, you may</hi>
+                  </l>
+                  <l>
+                     <hi>See on his teeth the time of th' day:</hi>
+                  </l>
+                  <l>Africk <hi>ne'r brought more Monſters out</hi>
+                  </l>
+                  <l>
+                     <hi>Then this ſame edifying Snout:</hi>
+                  </l>
+                  <l>
+                     <hi>Once in a month it breedeth, and</hi>
+                  </l>
+                  <l>
+                     <hi>Brings forth of Maggots a train band:</hi>
+                  </l>
+                  <l>
+                     <hi>That and his mouth ſends forth a breath</hi>
+                  </l>
+                  <l>
+                     <hi>Of many Royalliſts their death:</hi>
+                  </l>
+                  <l>
+                     <hi>And ſuch ſulphurous ſcents you'd ſwear</hi>
+                  </l>
+                  <l>Etna <hi>and Hell but vapours were</hi>
+                  </l>
+                  <l>
+                     <hi>With Blaſphemies, that won't thought on</hi>
+                  </l>
+                  <l>
+                     <hi>By Blatant beaſt, or</hi> Julian:</l>
+                  <l>
+                     <hi>Like to a Gulph, opening ſo wide</hi>
+                  </l>
+                  <l>
+                     <hi>Into it,</hi> Curtius <hi>may ride.</hi>
+                  </l>
+                  <l>
+                     <hi>His Teeth like Paliſadoes be,</hi>
+                  </l>
+                  <l>
+                     <hi>Or like Stakes ſtanding three by three.</hi>
+                  </l>
+                  <l>
+                     <hi>But oh! his Chin it wheels about</hi>
+                  </l>
+                  <l>
+                     <hi>Like to his Souldiers in a rout;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſo diſorderly doth run</hi>
+                  </l>
+                  <l>
+                     <hi>Unto his neck it's garriſon:</hi>
+                  </l>
+                  <l>
+                     <hi>His Neck, worth nothing, onely that</hi>
+                  </l>
+                  <l>
+                     <hi>It may ſuſtaine his Bodies fate:</hi>
+                  </l>
+                  <l>
+                     <hi>With Shoulders bread, and a full Breſt</hi>
+                  </l>
+                  <l>
+                     <hi>In which all villany doth rest:</hi>
+                  </l>
+                  <pb n="6" facs="tcp:165297:5"/>
+                  <l>
+                     <hi>His Hands and Armes beſmeared be</hi>
+                  </l>
+                  <l>
+                     <hi>Ore with the blood of Royaltie:</hi>
+                  </l>
+                  <l>
+                     <hi>I know not with what to compare</hi>
+                  </l>
+                  <l>
+                     <hi>His other parts, but even they are</hi>
+                  </l>
+                  <l>
+                     <hi>Either like theſe, or like his Heart</hi>
+                  </l>
+                  <l>
+                     <hi>That not degenerating part:</hi>
+                  </l>
+                  <l>
+                     <hi>And joyn'd with it make a compleat</hi>
+                  </l>
+                  <l>
+                     <hi>State Matchivilian Hypocrite.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
